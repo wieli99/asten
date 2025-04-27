@@ -1,0 +1,12 @@
+{
+  "ASTEN": {
+    "Settings": {
+      "EnableCustomCritRules": "Enable Custom Critical Hit Rules",
+      "EnableCustomCritRulesHint": "When enabled, critical hits will deal normal damage + maximum possible damage instead of rolling twice."
+    },
+    "CriticalHit": {
+      "Title": "Asten Critical Hit",
+      "Explanation": "Normal Roll + Maximum Damage"
+    }
+  }
+}

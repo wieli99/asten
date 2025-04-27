@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="EmptyStatementBodyJS" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="m_reportEmptyBlocks" value="false" />
+    </inspection_tool>
+    <inspection_tool class="PhpCSFixerValidationInspection" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES">
+      <option name="CODING_STANDARD" value="Custom" />
+      <option name="CUSTOM_RULESET_PATH" value="$PROJECT_DIR$/.php-cs-fixer.dist.php" />
+    </inspection_tool>
+    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+    <inspection_tool class="PhpStatementHasEmptyBodyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PsalmGlobal" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  </profile>
+</component>
